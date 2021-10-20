@@ -1,0 +1,21 @@
+body{
+    background-color: #b683838f;
+}
+header {
+    background-color: #d60b0b54;
+    width: 100%;
+    height: 75px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.iconTitle{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
